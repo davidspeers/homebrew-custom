@@ -9,4 +9,4 @@ To create a new tap:
 https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
 
 Changes:
-* image-magick -> changed --without-pango to --with-pango and added depends_on "pango"
+* imagemagick -> changed --without-pango to --with-pango and added depends_on "pango"
