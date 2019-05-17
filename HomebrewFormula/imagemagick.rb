@@ -27,6 +27,7 @@ class Imagemagick < Formula
   depends_on "little-cms2"
   depends_on "openexr"
   depends_on "openjpeg"
+  depends_on "pango"
   depends_on "webp"
   depends_on "xz"
 
