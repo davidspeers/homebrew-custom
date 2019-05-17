@@ -1,5 +1,5 @@
-## homebrew-custom
-# My custom homebrew taps with extra options
+# homebrew-custom
+## My custom homebrew taps with extra options
 
 To create a new tap:
 1. Copy the ruby code of the formula you want
